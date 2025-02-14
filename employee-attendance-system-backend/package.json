@@ -1,0 +1,30 @@
+{
+  "name": "employee-attendance-system-backend",
+  "version": "1.0.0",
+  "description": "Demo office employee attendance system for offices",
+  "keywords": [
+    "attendance",
+    "system",
+    "office",
+    "employee"
+  ],
+  "homepage": "https://github.com/mhnavid/employee-attendance-system#readme",
+  "bugs": {
+    "url": "https://github.com/mhnavid/employee-attendance-system/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhnavid/employee-attendance-system.git"
+  },
+  "license": "ISC",
+  "author": "Mahmudul Hassan Navid",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
